@@ -6,7 +6,7 @@ body::before {
   width: 100%;
   height: 100vh;
   opacity: 0.4;
-  background: url("../images/night-sky.jpg");
+  background: url("./images/night-sky.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
